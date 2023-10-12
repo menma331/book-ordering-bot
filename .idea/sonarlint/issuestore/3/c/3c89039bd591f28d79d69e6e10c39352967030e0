@@ -1,0 +1,7 @@
+
+Épython:S1192#"©Define a constant instead of duplicating this literal "SELECT bookName, authorBook, bookGenre, bookPrice, bookCount, bookVendor FROM books WHERE bookName = (?)" 3 times.(°ÌÖÔ8£¼¡ý±1
+Hpython:S1481+")Remove the unused local variable "genre".(ì¼Ô™8ô¢”ê±1
+Hpython:S1481A")Remove the unused local variable "genre".(ì¼Ô™8¤¼¡ý±1
+Hpython:S1481X")Remove the unused local variable "genre".(ì¼Ô™8¤¼¡ý±1
+Hpython:S1481n")Remove the unused local variable "genre".(ì¼Ô™8¤¼¡ý±1
+Ipython:S1481„")Remove the unused local variable "genre".(ì¼Ô™8¥¼¡ý±1
