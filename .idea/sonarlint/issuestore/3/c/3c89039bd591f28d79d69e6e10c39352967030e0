@@ -1,7 +1,9 @@
 
-Épython:S1192#"©Define a constant instead of duplicating this literal "SELECT bookName, authorBook, bookGenre, bookPrice, bookCount, bookVendor FROM books WHERE bookName = (?)" 3 times.(°ÌÖÔ8£¼¡ı±1
-Hpython:S1481+")Remove the unused local variable "genre".(ì¼Ô™8ô¢”ê±1
-Hpython:S1481A")Remove the unused local variable "genre".(ì¼Ô™8¤¼¡ı±1
-Hpython:S1481X")Remove the unused local variable "genre".(ì¼Ô™8¤¼¡ı±1
-Hpython:S1481n")Remove the unused local variable "genre".(ì¼Ô™8¤¼¡ı±1
-Ipython:S1481„")Remove the unused local variable "genre".(ì¼Ô™8¥¼¡ı±1
+Ğpython:S1192g"«Define a constant instead of duplicating this literal "SELECT bookName, authorBook, bookGenre, bookPrice, bookCount, bookVendor FROM books WHERE bookVendor = (?)" 7 times.(ÁÕº«üÿÿÿÿ8Æˆ‘¸µ1
+dpython:S3457"EAdd replacement fields or use a normal string instead of an f-string.(ğÉ¾8Æˆ‘¸µ1
+Hpython:S14810")Remove the unused local variable "genre".(ì¼Ô™8Æˆ‘¸µ1
+Hpython:S1481o")Remove the unused local variable "genre".(ì¼Ô™8Æˆ‘¸µ1
+Hpython:S108”")Either remove or fill this block of code.(ã‘Û¾8Æˆ‘¸µ1
+Hpython:S108©")Either remove or fill this block of code.(ã‘Û¾8Æˆ‘¸µ1
+Hpython:S108¾")Either remove or fill this block of code.(ã‘Û¾8Æˆ‘¸µ1
+Hpython:S108Ó")Either remove or fill this block of code.(ã‘Û¾8Æˆ‘¸µ1
