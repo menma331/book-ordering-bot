@@ -1,0 +1,4 @@
+/.env
+/.idea
+/.pytest_cache
+/test_message.py
