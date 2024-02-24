@@ -1,6 +1,9 @@
 /.env
-/.idea
+/.idea/
 /.pytest_cache
 /test_message.py
-/.pytest_cache
+/.pytest_cache/
+/database/
+/venv/
+
 
