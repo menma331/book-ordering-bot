@@ -1,8 +1,6 @@
 .env
-.idea/
-.pytest_cache
-.pytest_cache/
-database/
-venv/
-
+/.idea/
+/.pytest_cache
+/database/
+/venv
 
