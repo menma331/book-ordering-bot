@@ -21,7 +21,6 @@ COPY handlers.py .
 COPY keyboard.py .
 COPY State.py .
 
-
 # Укажите порт для приложения
 # EXPOSE 5000
 

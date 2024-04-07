@@ -16,6 +16,7 @@ disp = Dispatcher()
 
 
 async def start():
+    print('Bot has been started')
     disp.include_router(router=router)
     await disp.start_polling(bot)
 
