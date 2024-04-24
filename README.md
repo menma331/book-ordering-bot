@@ -7,8 +7,7 @@
     - 📟 [Функциональные возможности](#func_abilities)
 2. 📱 [Технологии проекта](#project_technologies)
 3. 🔌 [Установка и запуск](#installation_and_launch)
-4. 📗 [Документация API](#documentation_api)
-5. 🧙‍♂️ [Авторы](#authors)
+4. 🧙‍♂️ [Авторы](#authors)
    <a name="project_desc"></a>
 
 ## ✏️ Описание проекта ##
